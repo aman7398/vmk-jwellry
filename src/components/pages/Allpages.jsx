@@ -20,7 +20,7 @@ import all11 from '../../assets/Allphoto/all11.png'
 import all12 from '../../assets/Allphoto/all12.png'
 import all13 from '../../assets/Allphoto/all13.png'
 import all14 from '../../assets/Allphoto/all14.png'
-import allbging from '../../assets/Allphoto/allbging.png'
+import allbging from '../../assets/Allphoto/Allbg.png'
 
 // ✅ Images with Dynamic Text
 const images = [
